@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **R, Java, C++, SQL**
 
-- 📄 Know about my experiences I am currently Building a Startup www.robify.in
+- 📄 Know about my experiences I am currently Working on a Startup www.robify.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
