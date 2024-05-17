@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Same**
 
-- 💬 Ask me about **R, Java, C++, SQL**
+- 💬 Ask me about **R, Python ,Java, C++, C, SQL**
 
 - 📄 Know about my experiences I am currently Working on a Startup www.robify.in
 
