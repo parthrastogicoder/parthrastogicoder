@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Extraction and Analysis of Unemployement of different Social Stata**
 
-- 🌱 I’m currently learning **ML , model building on R**
+- 🌱 I’m currently learning **ML and federated learning **
 
 - 👯 I’m looking to collaborate on **Same**
 
