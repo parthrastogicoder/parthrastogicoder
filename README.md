@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dynamic Bayesian Network for Causal Learning**
 
-- 🌱 I’m currently learning **ML and federated learning**
+- 🌱 I’m currently learning **ML and PGM**
 
 - 👯 I’m looking to collaborate on **Same**
 
