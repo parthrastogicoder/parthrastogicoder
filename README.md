@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthrastogicoder&label=Profile%20views&color=0e75b6&style=flat" alt="parthrastogicoder" /> </p>
 
-- 🔭 I’m currently working on **Dynamic Bayesian Network for Causal Learning**
 
-- 🌱 I’m currently learning **ML and PGM**
+
+- 🌱 I’m currently learning **ML and LLM**
 
 - 👯 I’m looking to collaborate on **Same**
 
