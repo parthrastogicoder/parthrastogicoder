@@ -35,5 +35,5 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthrastogicoder&layout=compact)
 
