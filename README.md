@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **R, Python, Java, C++, C, SQL**
 
-- 📄 Know about my experiences I am currently Working on a Startup www.robify.in
+- 📄 Know about my experiences I am currently Working for laikalabs.ai
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
