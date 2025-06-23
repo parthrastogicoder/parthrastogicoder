@@ -34,4 +34,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthrastogicoder&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthrastogicoder&" alt="parthrastogicoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthrastogicoder" alt="parthrastogicoder" /></p>
