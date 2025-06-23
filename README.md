@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthrastogicoder&label=Profile%20views&color=0e75b6&style=flat" alt="parthrastogicoder" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthrastogicoder" alt="parthrastogicoder" /></a> </p>
 
-
-- 🌱 I’m currently learning **ML and LLM**
-
-- 👯 I’m looking to collaborate on **Same**
+- 🌱 I’m currently learning ** LLM and Agentic Ai**
 
 - 💬 Ask me about **R, Python, Java, C++, C, SQL**
 
@@ -36,4 +34,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthrastogicoder&layout=compact)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthrastogicoder&" alt="parthrastogicoder" /></p>
