@@ -5,11 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=parthrastogicoder)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning ** LLM and Agentic Ai**
+- 🌱 I’m currently learning **LLM and Agentic Ai**
 
 - 💬 Ask me about **R, Python, Java, C++, C, SQL**
-
-- 📄 Know about my experiences I am currently Working for laikalabs.ai
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
